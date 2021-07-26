@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'Assinatura';
+    src: url("../assets/font/Assinatura.ttf");
+}
+
+@font-face {
+    font-family: 'Chloe';
+    src: url("../assets/font/Chloe.otf");
+}
+
+@font-face {
+    font-family: 'Forum';
+    src: url("../assets/font/Forum.ttf");
+}
+
+#particles-js {
+    min-height: 30rem;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-color: #8F4353;
+    background-image: url('../img/marmore-2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    z-index: 0;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.welcome {
+    height: 80vh;
+    width: 50vw;
+    background-color: #8F4353;
+    position: absolute;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.welcome::after {
+    content: "";
+    left: 70px;
+    top: 8px;
+}
+
+.img-profile {
+    max-width: 15rem;
+    max-height: 10rem;
+    border: 0.2rem solid #EDCC8B;
+    margin-top: -70px;
+    background-color: #8F4353;
+}
+
+.descricao {
+    font-size: 18px;
+    font-family: Roboto;
+    color: #EDCC8B;
+}
+
+@media (max-width: 1085px) {
+    #particles-js .welcome {
+        height: 80vh;
+        width: 85vw;
+    }
+    .welcome h1 {
+        font-size: 40px;
+    }
+    .welcome .button {
+        width: 75vw;
+        font-size: 15px;
+    }
+}
+
+#profile {
+    height: 150px;
+}
+
+.name {
+    font-family: Assinatura;
+    color: #F4E5CE;
+    font-size: 50px;
+    font-weight: 100;
+    margin-top: 10px;
+}
+
+@media (max-width: 1085px) {
+    #profile {
+        height: 120px;
+    }
+    .descricao {
+        font-size: 15px;
+    }
+}
+
+#links {
+    position: auto;
+}
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.content-section {
+    padding-top: 7.5rem;
+    padding-bottom: 7.5rem;
+}
+
+.content-section-heading h2 {
+    font-size: 3rem;
+}
+
+.content-section-heading h3 {
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.btn-home {
+    background-color: #F4E5CE;
+    color: #8F4353;
+    width: 30vw;
+    height: 60px;
+    position: relative;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    border-radius: 35px;
+}
+
+.btn-home:hover {
+    background-color: #EDCC8B;
+    color: #8F4353;
+}
