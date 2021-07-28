@@ -60,7 +60,7 @@
       <h2>Em busca de resultados e destaque?</h2>
       <p>Aqui vai as muitas maneiras que posso te ajudar a posicionar a sua marca na internet e destaca - lá dos concorrentes.</p>
     </div>
-    <div class="row">
+    <div class="row slider">
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
         <div class="icon-box iconbox-blue">
           <div class="icon">
@@ -70,8 +70,8 @@
             <i class="bx bxl-slack-old"></i>
           </div>
           <h4><a>Social Media</a></h4>
-          <p>Se não tem tempo para produzir e quer se suas redes sociais te ajudem a vender mais, essa é a melhor opção para você</p>
-          <div class="">
+          <p>Gerenciamento de redes sociais para empresas/marcas que desejam crescer através do online com estratégias de marketing</p>
+          <div>
             <button class="btn btn-servico">
               <a href="https://api.whatsapp.com/send?phone=5512996536204&text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20social%20media!" target="_blank">Vamos conversar</a>
             </button>
@@ -88,8 +88,8 @@
             <i class="bx bx-palette"></i>
           </div>
           <h4><a>Identidade Visual Digital</a></h4>
-          <p>Ideal para presença digital personalizada auxiliando posicionando autêntico do seu negócio</p>
-          <div class="">
+          <p>Dê vida a sua marca por meio de autenticidade, inclui: logomarca, paleta de cores, tipografia, elementos, e muito mais</p>
+          <div>
             <button class="btn btn-servico">
               <a href="https://api.whatsapp.com/send?phone=5512996536204&text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20identidade%20visual%3F" target="_blank">Vamos conversar</a>
             </button>
@@ -106,8 +106,8 @@
             <i class="bx bxs-briefcase"></i>
           </div>
           <h4><a>Consultoria para instagram</a></h4>
-          <p>O direcionamento perfeito para você ter autonomia de produzir seus conteúdos, além de estar incluso um calendário mensal</p>
-          <div class="">
+          <p>Te ensino a como gerenciar as suas redes sociais e fazer o seu negócio subir de patamar no digital</p>
+          <div>
             <button class="btn btn-servico">
               <a href="https://api.whatsapp.com/send?phone=5512996536204&text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20consultoria%20para%20Instagram%20%3A)%20" target="_blank">Vamos conversar</a>
             </button>
@@ -132,7 +132,7 @@
       <div class="col-lg-6">
 
         <div class="progress">
-          <span class="skill">Design <i class="val">89%%</i></span>
+          <span class="skill">Design <i class="val">89%</i></span>
           <div class="progress-bar-wrap">
             <div class="progress-bar" role="progressbar" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
@@ -146,7 +146,7 @@
         </div>
 
         <div class="progress">
-          <span class="skill">Fografia <i class="val">75%</i></span>
+          <span class="skill">Fotografia <i class="val">75%</i></span>
           <div class="progress-bar-wrap">
             <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
@@ -190,8 +190,8 @@
     <div class="section-title" data-aos="fade-up">
       <h2>Principais Projetos</h2>
       <h2>Em desenvolvimento....</h2>
-      <p>Segue os projetos que são trabalhos disfarçados de presentes,
-        cada um foi desenvolvido totalmente personalizado de acordo com a essência de cada marca.</p>
+      <p>Aqui está os meus melhores presentes disfarçados de projetos, 
+        cada um foi desenvolvido totalmente personalizado para a marca.</p>
     </div>
 
     <div class="row">
@@ -299,8 +299,8 @@
           </div>
         </div>
       </div> -->
-      
-    <div class="col-lg-4 col-md-6 portfolio-item filter-makingoff">
+
+      <div class="col-lg-4 col-md-6 portfolio-item filter-makingoff">
         <div class="portfolio-wrap">
           <img src="<?php echo base_url(); ?>public/img/portfolio/makingoff-07.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
