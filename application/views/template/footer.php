@@ -11,9 +11,6 @@
       <div class="copyright">
         &copy; Copyright <strong><span>Bruna Ferreira</span></strong>. Todos os direitos reservados
       </div>
-      <div class="credits">
-        Designed by <a target="_blank" href="https://kronustecnologia.com.br">Kronus Tecnologia</a>
-      </div>
     </div>
   </footer><!-- End Footer -->
 
